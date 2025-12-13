@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
@@ -15,8 +15,23 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: 64f2119ee04bcdd4c823b4c4b5d941ac
   - enabled: 1
-    path: Assets/Scenes/Unit_Gokyuzu.unity
+    path: Assets/Scenes/Unite1_Gokyuzu.unity
     guid: 72ce0be4bf9e7db4b86fdabcd39ccad7
+  - enabled: 1
+    path: Assets/Scenes/Unite2_Kuvvet.unity
+    guid: cb14d4ae2f1b36442a6ecf359ab247e5
+  - enabled: 1
+    path: Assets/Scenes/Unite3_Canlilar.unity
+    guid: 07008ff12b4563d4e8669efc78693b58
+  - enabled: 1
+    path: Assets/Scenes/Unite4_Isik.unity
+    guid: 140f849051b1f6245a7e44e2e6f73810
+  - enabled: 1
+    path: Assets/Scenes/Unite5_Madde.unity
+    guid: c9ec1dbf10fac634e8e369ec1bb93230
+  - enabled: 1
+    path: Assets/Scenes/Unite6_Elektrik.unity
+    guid: 05fafe17ee75f6448b3570dbbd2eb0b9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -202,7 +202,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 67216254}
+      - m_Target: {fileID: 67216255}
         m_TargetAssemblyTypeName: LoginManager, Assembly-CSharp
         m_MethodName: OgretmenGiris
         m_Mode: 1
@@ -262,6 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 67216253}
   - component: {fileID: 67216254}
+  - component: {fileID: 67216255}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -294,6 +295,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d99f88d9fd0a72b4bb2546194966c233, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &67216255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67216252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40baa00dfa64f3a42a4ccd542171451d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ogretmenAd: {fileID: 1471182119}
@@ -4116,7 +4129,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 67216254}
+      - m_Target: {fileID: 67216255}
         m_TargetAssemblyTypeName: LoginManager, Assembly-CSharp
         m_MethodName: OgrenciGiris
         m_Mode: 1
@@ -4225,7 +4238,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3098cec754bc34f48841cce0128fb02f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 303d276a80f0b844f8cd7a09f6c80b2b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
