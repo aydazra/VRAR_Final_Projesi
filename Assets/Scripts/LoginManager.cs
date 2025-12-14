@@ -21,7 +21,12 @@ public class LoginManager : MonoBehaviour
     // Baðlantý Adresi (Localhost: Senin bilgisayarýn)
     // "Server=" yerine "Data Source=" ve "Database=" yerine "Initial Catalog=" yazdýk.
     // Unity'nin en sevdiði format budur.
-    string connectionString = @"Data Source=KOPUZZNISA\SQLEXPRESS01; Initial Catalog=VRAR_DB; Integrated Security=True; TrustServerCertificate=True;";
+    string connectionString =
+ @"Data Source=DESKTOP-9TDC980\SQLKODLAB;
+Initial Catalog=VRAR_DB;
+Integrated Security=True;
+Encrypt=True;
+TrustServerCertificate=True;";
     // ÖÐRETMEN GÝRÝÞ BUTONU
     public void OgretmenGiris()
     {
