@@ -33,6 +33,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Unite6_Elektrik.unity
     guid: 05fafe17ee75f6448b3570dbbd2eb0b9
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9ed4271a6636bc648afe70371563178e, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2b7cd9e61cc828b4b90bf7d16fd207e9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7cce0ff44708a1498300e1d8bf54d5b, type: 2}
   m_UseUCBPForAssetBundles: 0
